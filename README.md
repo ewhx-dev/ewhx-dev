@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student dedicate
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements
 
 <!-- Certification Badges -->
 <div align="center">
