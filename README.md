@@ -62,7 +62,8 @@ Welcome to my GitHub profile! I'm a passionate computer science student dedicate
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewhx-dev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewhx-dev&show_icons=true&theme=dark&count_private=true&icon_color=58A6FF" alt="GitHub Stats">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewhx-dev&theme=dark" alt="GitHub Streak">
 </div>
 
