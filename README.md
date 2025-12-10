@@ -65,7 +65,7 @@ Coming soon! Check back for updates on my latest projects.
 
 ---
 
-## 📝 Latest Articles
+## 📝 My Sites
 
 - [Portfolio](https://www.nichosportfolio.tech) - Explore my work
 - [Website](https://guns.lol/niijho) - Personal site
