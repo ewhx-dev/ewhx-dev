@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student dedicate
 ### Frameworks & Libraries
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
@@ -51,11 +50,11 @@ Welcome to my GitHub profile! I'm a passionate computer science student dedicate
 
 <!-- Certification Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Postman-Certified-ff6c37?style=for-the-badge" alt="Postman Certified">
-  <img src="https://img.shields.io/badge/AWS-Hands%20On-ff9900?style=for-the-badge" alt="AWS Hands On">
-  <img src="https://img.shields.io/badge/Cloud-Essentials-0052CC?style=for-the-badge" alt="Cloud Essentials">
-  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge" alt="GitHub Foundations">
-  <img src="https://img.shields.io/badge/GitHub-Copilot-000000?style=for-the-badge" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/JavaScript%20Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Expert">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Full Stack Developer">
+  <img src="https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Proficient">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Advanced">
+  <img src="https://img.shields.io/badge/Problem%20Solver-Expert-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Problem Solver">
 </div>
 
 ---
