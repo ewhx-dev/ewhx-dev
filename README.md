@@ -1,4 +1,4 @@
-# Hi there, I'm Nicho (known as ewhx) 👋
+# Hi there, I'm Nicho 👋
 
 **Computer Science Student | Multi-Language Programmer**
 
